@@ -1,0 +1,5 @@
+{
+  "name": "Inspiro",
+  "description": "Inspiro is a modern, minimal web application to browse a grid of multimedia content including images, videos, audio, notes, and quotes. Features include a theme toggle, full-screen viewer, content search, and a minimized media player.",
+  "requestFramePermissions": []
+}
